@@ -1,0 +1,5 @@
+/Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/obj/x86/Debug/SingleLinkedList.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/bin/Debug/SingleLinkedList.exe
+/Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/bin/Debug/SingleLinkedList.pdb
+/Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/obj/x86/Debug/SingleLinkedList.exe
+/Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/obj/x86/Debug/SingleLinkedList.pdb
