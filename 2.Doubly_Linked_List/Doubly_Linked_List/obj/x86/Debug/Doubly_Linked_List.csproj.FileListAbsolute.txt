@@ -1,0 +1,5 @@
+/Users/hunorvadasz-perhat/Projects/Doubly_Linked_List/Doubly_Linked_List/obj/x86/Debug/Doubly_Linked_List.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/Doubly_Linked_List/Doubly_Linked_List/bin/Debug/Doubly_Linked_List.exe
+/Users/hunorvadasz-perhat/Projects/Doubly_Linked_List/Doubly_Linked_List/bin/Debug/Doubly_Linked_List.pdb
+/Users/hunorvadasz-perhat/Projects/Doubly_Linked_List/Doubly_Linked_List/obj/x86/Debug/Doubly_Linked_List.exe
+/Users/hunorvadasz-perhat/Projects/Doubly_Linked_List/Doubly_Linked_List/obj/x86/Debug/Doubly_Linked_List.pdb
