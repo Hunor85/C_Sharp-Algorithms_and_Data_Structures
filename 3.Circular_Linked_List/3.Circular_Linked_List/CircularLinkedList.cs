@@ -83,5 +83,66 @@ namespace Circular_Linked_List
                     last = temp;
             }
         }
+
+        public void DeleteFirstNode(){
+            // if list is empty
+            if (last == null)
+                return;
+            // if list has one node
+            if(last.link == last){
+                last = null;
+                return;
+            }
+
+            last.link = last.link.link;
+        }
+
+        public void DeleteLastNode(){
+            // if list is empty
+            if (last == null)
+                return;
+            // if list has one node
+            if(last.link == last){
+                last = null;
+                return;
+            }
+
+            Node p = last.link;
+            while (p.link != last)
+                p = p.link;
+            p.link = last.link;
+            last = p;
+        }
+
+        public void DeleteNode(int x){
+            // list is empty
+            if (last == null)
+                return;
+            // delete the only node
+            if(last.link == last && last.info == x){
+                last = null;
+                return;
+            }
+            // delete the first node
+            if(last.link.info == x){
+                last.link = last.link.link;
+                return;
+            }
+            // delete a node in between the list
+            Node p = last.link;
+            while(p.link != last.link){
+                if (p.link.info == x)
+                    break;
+                p = p.link;
+            }
+
+            if (p.link == last.link)
+                Console.WriteLine(x + " not found in the list.");
+            else {
+                p.link = p.link.link;
+                if (last.info == x)
+                    last = p;
+            }
+        }
     }
 }
