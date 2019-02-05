@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F6EF9709-27AD-43E4-954D-68EEA318249A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Doubly__Linked__List PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Doubly_Linked_List/Program.cs">
+    <Files>
+      <File FileName="Doubly_Linked_List/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Doubly_Linked_List/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
