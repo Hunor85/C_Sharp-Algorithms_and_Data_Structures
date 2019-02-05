@@ -50,7 +50,6 @@ namespace Array_Implementation
                         break;
                 }
                 Console.WriteLine("");
-
             }
         }
     }

@@ -75,10 +75,5 @@ namespace Array_Implementation
             }
             Console.WriteLine();
         }
-
-
-
-
-
     }
 }
