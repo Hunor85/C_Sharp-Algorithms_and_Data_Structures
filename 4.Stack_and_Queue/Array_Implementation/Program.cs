@@ -8,7 +8,7 @@ namespace Array_Implementation
         {
             int choice, x;
 
-            StackArray stack = new StackArray(8);
+            StackArray stack = new StackArray(4);
 
             while (true)
             {

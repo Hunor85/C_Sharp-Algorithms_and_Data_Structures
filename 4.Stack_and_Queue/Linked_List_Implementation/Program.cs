@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Array_Implementation
+namespace Linked_List_Implementation
 {
     class MainClass
     {
@@ -8,16 +8,16 @@ namespace Array_Implementation
         {
             int choice, x;
 
-            StackArray stack = new StackArray(8);
+            StackLinkedList stack = new StackLinkedList();
 
             while (true)
             {
-                Console.WriteLine("1. Push an element on stack");
-                Console.WriteLine("2. Pop an element from stack");
+                Console.WriteLine("1. Push element on the stack");
+                Console.WriteLine("2. Pop an element from the stack");
                 Console.WriteLine("3. Display the top element");
-                Console.WriteLine("4. Display all the elements");
+                Console.WriteLine("4. Display all the satck elements");
                 Console.WriteLine("5. Display the size of the stack");
-                Console.WriteLine("6. Quit");
+                Console.WriteLine("6. Quit"); 
                 Console.WriteLine("Enter your choice: ");
 
                 choice = Convert.ToInt32(Console.ReadLine());
@@ -28,7 +28,7 @@ namespace Array_Implementation
                 switch (choice)
                 {
                     case 1:
-                        Console.Write("Enter element to be pushed: ");
+                        Console.Write("Enter the element to be pushed: ");
                         x = Convert.ToInt32(Console.ReadLine());
                         stack.Push(x);
                         break;
@@ -37,7 +37,7 @@ namespace Array_Implementation
                         Console.Write("Popped element is: " + x);
                         break;
                     case 3:
-                        Console.Write("Element at top is: " + stack.Peek());
+                        Console.Write("Element at the top is: " + stack.Peek());
                         break;
                     case 4:
                         stack.Display();
@@ -46,11 +46,10 @@ namespace Array_Implementation
                         Console.Write("Size of the stack: " + stack.Size());
                         break;
                     default:
-                        Console.WriteLine("Bad choice!");
+                        Console.Write("Bad choice");
                         break;
                 }
-                Console.WriteLine("");
-
+                Console.WriteLine();
             }
         }
     }

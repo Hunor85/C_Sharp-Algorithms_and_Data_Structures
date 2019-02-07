@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked_List_Implementation", "Linked_List_Implementation.csproj", "{E83523D0-DFE0-4F28-A497-F8B48A1B7D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83523D0-DFE0-4F28-A497-F8B48A1B7D86}.Debug|x86.ActiveCfg = Debug|x86
+		{E83523D0-DFE0-4F28-A497-F8B48A1B7D86}.Debug|x86.Build.0 = Debug|x86
+		{E83523D0-DFE0-4F28-A497-F8B48A1B7D86}.Release|x86.ActiveCfg = Release|x86
+		{E83523D0-DFE0-4F28-A497-F8B48A1B7D86}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,0 @@
-/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/4.Stack_and_Queue/Array_Implementation/bin/Debug/Array_Implementation.exe
-/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/4.Stack_and_Queue/Array_Implementation/bin/Debug/Array_Implementation.pdb
-/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/4.Stack_and_Queue/Array_Implementation/obj/x86/Debug/Array_Implementation.csprojAssemblyReference.cache
-/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/4.Stack_and_Queue/Array_Implementation/obj/x86/Debug/Array_Implementation.csproj.CoreCompileInputs.cache
-/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/4.Stack_and_Queue/Array_Implementation/obj/x86/Debug/Array_Implementation.exe
-/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/4.Stack_and_Queue/Array_Implementation/obj/x86/Debug/Array_Implementation.pdb

@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F752FDF7-54B0-41B2-A7C6-3AC9CA6A899E}</ProjectGuid>
+    <ProjectGuid>{E83523D0-DFE0-4F28-A497-F8B48A1B7D86}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Array_Implementation</RootNamespace>
-    <AssemblyName>Array_Implementation</AssemblyName>
+    <RootNamespace>Linked_List_Implementation</RootNamespace>
+    <AssemblyName>Linked_List_Implementation</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,7 +34,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StackArray.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="StackLinkedList.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
