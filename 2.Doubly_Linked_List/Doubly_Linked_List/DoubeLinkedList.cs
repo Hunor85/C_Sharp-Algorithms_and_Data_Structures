@@ -106,107 +106,129 @@ namespace Doubly_Linked_List
             }
         }
 
-        public void DeleteFirstNode(){
-            if (start == null)
-                return;
-            if(start.next == null){
-                start = null;
-                return;
-            }
+public void DeleteFirstNode(){
+    // if list is empty
+    if (start == null)
+        return;
 
-            start = start.next;
-            start.prev = null;
-        }
+    // if list has only one node
+    if(start.next == null){
+        // delete node
+        start = null;
+        return;
+    }
 
-        public void DeleteLastNode(){
-            if (start == null)
-                return;
-            if(start.next == null){
-                start = null;
-                return;
-            }
+    // delete first node
+    start = start.next;
+    start.prev = null;
+}
 
-            Node p = start;
-            while (p.next != null)
-                p = p.next;
+public void DeleteLastNode(){
+    // list is empty
+    if (start == null)
+        return;
+
+    // if list has only one node
+    if(start.next == null){
+        // delete node
+        start = null;
+        return;
+    }
+
+    // find reference to the last node 
+    Node p = start;
+    while (p.next != null)
+        p = p.next;
+    // delete last node
+    p.prev.next = null;
+}
+
+public void DeleteNode(int x)
+{
+    // list is empty    
+    if (start == null)
+        return;
+
+    // list has only one node
+    if (start.next == null)
+    {
+        // delete node if contains x
+        if (start.info == x)
+            start = null;
+        else
+            Console.WriteLine(x + " not found");
+        return;
+    }
+
+    // if x is in first node 
+    if (start.info == x)
+    {
+        // delete node
+        start = start.next;
+        start.prev = null;
+        return;
+    }
+
+    // if x is not in first node
+    Node p = start.next;
+    while (p.next != null)
+    {
+        if (p.info == x)
+            break;
+        p = p.next;
+    }
+
+    // if x is in node between two nodes
+    if (p.next != null)
+    {
+        p.prev.next = p.next;
+        p.next.prev = p.prev;
+    } 
+    // p prefers to last node 
+    else  
+    {
+        // if x is in last node 
+        if (p.info == x)
             p.prev.next = null;
-        }
+        else
+            Console.WriteLine(x + " not found");
+    }
+}
 
-        public void DeleteNode(int x)
-        {
-            if (start == null)
-                return;
+public void ReverseList(){
+    if (start == null)
+        return;
 
-            if (start.next == null)
-            {
-                if (start.info == x)
-                    start = null;
-                else
-                    Console.WriteLine(x + " not found");
-                return;
-            }
+    Node p1 = start;
+    Node p2 = p1.next;
+    p1.next = null;
+    p1.prev = p2;
+    while(p2 != null){
+        p2.prev = p2.next;
+        p2.next = p1;
+        p1 = p2;
+        p2 = p2.prev;
+    }
+    start = p1;
+}
 
-            if (start.info == x)
-            {
-                start = start.next;
-                start.prev = null;
-                return;
-            }
+public void CreateList(){
+    int i, n, data;
+    Console.Write("Enter the number of nodes: ");
+    n = Convert.ToInt32(Console.ReadLine());
 
-            Node p = start.next;
-            while (p.next != null)
-            {
-                if (p.info == x)
-                    break;
-                p = p.next;
-            }
+    if (n == 0)
+        return;
 
-            if (p.next != null)
-            {
-                p.prev.next = p.next;
-                p.next.prev = p.prev;
-            } else {
-                if (p.info == x)
-                    p.prev.next = null;
-                else
-                    Console.WriteLine(x + " not found");
-            }
-        }
+    Console.Write("Enter the first element to be inserted: ");
+    data = Convert.ToInt32(Console.ReadLine());
+    InsertInEmptyList(data);
 
-        public void ReverseList(){
-            if (start == null)
-                return;
-
-            Node p1 = start;
-            Node p2 = p1.next;
-            p1.next = null;
-            p1.prev = p2;
-            while(p2 != null){
-                p2.prev = p2.next;
-                p2.next = p1;
-                p1 = p2;
-                p2 = p2.prev;
-            }
-            start = p1;
-        }
-
-        public void CreateList(){
-            int i, n, data;
-            Console.Write("Enter the number of nodes: ");
-            n = Convert.ToInt32(Console.ReadLine());
-
-            if (n == 0)
-                return;
-
-            Console.Write("Enter the first element to be inserted: ");
-            data = Convert.ToInt32(Console.ReadLine());
-            InsertInEmptyList(data);
-
-            for (i = 2; i <= n; i++){
-                Console.Write("Enter the next element to be inserted: ");
-                data = Convert.ToInt32(Console.ReadLine());
-                InsertAtEnd(data);
-            }
-        }
+    for (i = 2; i <= n; i++){
+        Console.Write("Enter the next element to be inserted: ");
+        data = Convert.ToInt32(Console.ReadLine());
+        InsertAtEnd(data);
+    }
+}
     }
 }

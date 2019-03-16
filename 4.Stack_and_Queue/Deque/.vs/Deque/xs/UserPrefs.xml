@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FC3A0297-9243-45B9-8494-76DB30B7C5CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Deque PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DequeArray.cs">
+    <Files>
+      <File FileName="Program.cs" Line="53" Column="1" />
+      <File FileName="DequeArray.cs" Line="141" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

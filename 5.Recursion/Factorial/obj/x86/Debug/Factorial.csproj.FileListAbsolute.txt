@@ -1,0 +1,6 @@
+/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/5.Recursion/Factorial/obj/x86/Debug/Factorial.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/5.Recursion/Factorial/obj/x86/Debug/Factorial.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/5.Recursion/Factorial/bin/Debug/Factorial.exe
+/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/5.Recursion/Factorial/bin/Debug/Factorial.pdb
+/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/5.Recursion/Factorial/obj/x86/Debug/Factorial.exe
+/Users/hunorvadasz-perhat/Documents/github/C_Sharp-Algorithms_and_Data_Structures/5.Recursion/Factorial/obj/x86/Debug/Factorial.pdb

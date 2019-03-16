@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{454E26DC-4A60-49C2-8E6D-C96C6E7265E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Circular__Queue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CircularQueue.cs">
+    <Files>
+      <File FileName="Program.cs" Line="5" Column="1" />
+      <File FileName="CircularQueue.cs" Line="137" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

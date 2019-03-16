@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3DE8C44E-F0D3-413E-AC4A-1416D909EDF1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Node.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="13" />
+      <File FileName="Circular.cs" Line="96" Column="6" />
+      <File FileName="Node.cs" Line="7" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Queue-Circular_Linked_List_Implementation" expanded="True">
+            <Node name="Queue-Circular_Linked_List_Implementation" expanded="True">
+              <Node name="Node.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Queue-Circular__Linked__List__Implementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
