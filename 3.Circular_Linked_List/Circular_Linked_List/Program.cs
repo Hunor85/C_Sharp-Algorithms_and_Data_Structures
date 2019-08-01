@@ -8,9 +8,9 @@ namespace Circular_Linked_List
         {
             int choice, data, x;
 
-CircularLinkedList list = new CircularLinkedList();
+            CircularLinkedList list = new CircularLinkedList();
 
-list.CreateList();
+            list.CreateList();
 
             while(true){
                 Console.WriteLine("1.Display list.");

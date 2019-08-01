@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{45211955-1DFD-4FD8-859A-B9AA09D7BB0A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearchTree.cs">
+    <Files>
+      <File FileName="Node.cs" Line="4" Column="1" />
+      <File FileName="BinarySearchTree.cs" Line="75" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Binary_Search_Tree" expanded="True">
+            <Node name="Binary_Search_Tree" expanded="True">
+              <Node name="BinarySearchTree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Binary__Search__Tree FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

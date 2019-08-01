@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/bin/Debug/netcoreapp2.2/Heap_sort.deps.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/bin/Debug/netcoreapp2.2/Heap_sort.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/bin/Debug/netcoreapp2.2/Heap_sort.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/bin/Debug/netcoreapp2.2/Heap_sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/bin/Debug/netcoreapp2.2/Heap_sort.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/obj/Debug/netcoreapp2.2/Heap_sort.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/obj/Debug/netcoreapp2.2/Heap_sort.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/obj/Debug/netcoreapp2.2/Heap_sort.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/obj/Debug/netcoreapp2.2/Heap_sort.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/obj/Debug/netcoreapp2.2/Heap_sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Heap_sort/obj/Debug/netcoreapp2.2/Heap_sort.pdb

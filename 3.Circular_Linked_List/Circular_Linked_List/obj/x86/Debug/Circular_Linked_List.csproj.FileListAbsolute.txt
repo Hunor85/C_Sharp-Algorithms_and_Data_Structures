@@ -3,3 +3,9 @@
 /Users/hunorvadasz-perhat/Projects/3.Circular_Linked_List/3.Circular_Linked_List/bin/Debug/3.Circular_Linked_List.pdb
 /Users/hunorvadasz-perhat/Projects/3.Circular_Linked_List/3.Circular_Linked_List/obj/x86/Debug/3.Circular_Linked_List.exe
 /Users/hunorvadasz-perhat/Projects/3.Circular_Linked_List/3.Circular_Linked_List/obj/x86/Debug/3.Circular_Linked_List.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/3.Circular_Linked_List/Circular_Linked_List/bin/Debug/3.Circular_Linked_List.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/3.Circular_Linked_List/Circular_Linked_List/bin/Debug/3.Circular_Linked_List.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/3.Circular_Linked_List/Circular_Linked_List/obj/x86/Debug/Circular_Linked_List.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/3.Circular_Linked_List/Circular_Linked_List/obj/x86/Debug/Circular_Linked_List.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/3.Circular_Linked_List/Circular_Linked_List/obj/x86/Debug/3.Circular_Linked_List.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/3.Circular_Linked_List/Circular_Linked_List/obj/x86/Debug/3.Circular_Linked_List.pdb

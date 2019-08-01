@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/obj/Debug/netcoreapp2.2/Shell_sort.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/obj/Debug/netcoreapp2.2/Shell_sort.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/obj/Debug/netcoreapp2.2/Shell_sort.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/obj/Debug/netcoreapp2.2/Shell_sort.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/bin/Debug/netcoreapp2.2/Shell_sort.deps.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/bin/Debug/netcoreapp2.2/Shell_sort.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/bin/Debug/netcoreapp2.2/Shell_sort.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/bin/Debug/netcoreapp2.2/Shell_sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/bin/Debug/netcoreapp2.2/Shell_sort.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/obj/Debug/netcoreapp2.2/Shell_sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Shell_sort/obj/Debug/netcoreapp2.2/Shell_sort.pdb

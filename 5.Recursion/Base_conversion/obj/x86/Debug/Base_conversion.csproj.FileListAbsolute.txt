@@ -1,0 +1,6 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Base_conversion/bin/Debug/Base_conversion.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Base_conversion/bin/Debug/Base_conversion.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Base_conversion/obj/x86/Debug/Base_conversion.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Base_conversion/obj/x86/Debug/Base_conversion.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Base_conversion/obj/x86/Debug/Base_conversion.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Base_conversion/obj/x86/Debug/Base_conversion.pdb

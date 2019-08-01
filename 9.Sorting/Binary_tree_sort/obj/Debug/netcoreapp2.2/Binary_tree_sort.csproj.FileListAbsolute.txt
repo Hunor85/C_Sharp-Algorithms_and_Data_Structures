@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/obj/Debug/netcoreapp2.2/Binary_tree_sort.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/obj/Debug/netcoreapp2.2/Binary_tree_sort.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/obj/Debug/netcoreapp2.2/Binary_tree_sort.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/obj/Debug/netcoreapp2.2/Binary_tree_sort.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/bin/Debug/netcoreapp2.2/Binary_tree_sort.deps.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/bin/Debug/netcoreapp2.2/Binary_tree_sort.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/bin/Debug/netcoreapp2.2/Binary_tree_sort.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/bin/Debug/netcoreapp2.2/Binary_tree_sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/bin/Debug/netcoreapp2.2/Binary_tree_sort.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/obj/Debug/netcoreapp2.2/Binary_tree_sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Binary_tree_sort/obj/Debug/netcoreapp2.2/Binary_tree_sort.pdb

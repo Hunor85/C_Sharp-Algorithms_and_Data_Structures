@@ -11,8 +11,8 @@ namespace SingleLinkedList
 
             LinkedList list = new LinkedList();
 
-            //list.CreateList();
             list.CreateList();
+            /*
             LinkedList list1 = new LinkedList();
             LinkedList list2 = new LinkedList();
 
@@ -48,7 +48,7 @@ namespace SingleLinkedList
             list1.DisplayList();
             Console.WriteLine("Second list - ");
             list2.DisplayList();
-
+            */
 
 
 

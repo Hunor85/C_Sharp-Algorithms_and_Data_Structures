@@ -3,3 +3,9 @@
 /Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/bin/Debug/SingleLinkedList.pdb
 /Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/obj/x86/Debug/SingleLinkedList.exe
 /Users/hunorvadasz-perhat/Projects/SingleLinkedList/SingleLinkedList/obj/x86/Debug/SingleLinkedList.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/1.Single_Linked_List/SingleLinkedList/obj/x86/Debug/SingleLinkedList.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/1.Single_Linked_List/SingleLinkedList/obj/x86/Debug/SingleLinkedList.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/1.Single_Linked_List/SingleLinkedList/obj/x86/Debug/SingleLinkedList.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/1.Single_Linked_List/SingleLinkedList/obj/x86/Debug/SingleLinkedList.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/1.Single_Linked_List/SingleLinkedList/bin/Debug/SingleLinkedList.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/1.Single_Linked_List/SingleLinkedList/bin/Debug/SingleLinkedList.pdb

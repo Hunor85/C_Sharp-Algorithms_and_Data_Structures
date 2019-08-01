@@ -245,7 +245,7 @@ namespace SingleLinkedList
             start = prev;
         }
 
-public void Concatenate(SingleLinkedList list)
+public void Concatenate(LinkedList list)
 { 
     if ( start == null)
     {
@@ -257,7 +257,7 @@ public void Concatenate(SingleLinkedList list)
         return;
 
     Node p = start;
-    while (p.link != null;
+    while (p.link != null)
         p = p.link;
 
     p.link = list.start;
@@ -520,12 +520,10 @@ public void Concatenate(SingleLinkedList list)
             for (i = 1; i <= n; i++)
             {
                 Console.WriteLine("Enter the element to be inserted : ");
+
                 data = Convert.ToInt32(Console.ReadLine());
                 InsertAtEnd(data);
             }
         }
     }
 }
-
-// video 18.
-// video 19.

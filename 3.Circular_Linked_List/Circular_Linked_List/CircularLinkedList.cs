@@ -1,148 +1,148 @@
 ﻿using System;
 namespace Circular_Linked_List
 {
-public class CircularLinkedList
-{
-    private Node last;
-
-    public CircularLinkedList()
+    public class CircularLinkedList
     {
-        last = null;
-    }
+        private Node last;
 
-public void DisplayList()
-{
-    if (last == null)
-    {
-        Console.WriteLine("List is empty.");
-        return;
-    }
+        public CircularLinkedList()
+        {
+            last = null;
+        }
 
-    Node p = last.link;
-    do
-    {
-        Console.Write(p.info + " ");
-        p = p.link;
-    } while (p != last.link);
+        public void DisplayList()
+        {
+            if (last == null)
+            {
+                Console.WriteLine("List is empty.");
+                return;
+            }
 
-    Console.WriteLine();
-}
+            Node p = last.link;
+            do
+            {
+                Console.Write(p.info + " ");
+                p = p.link;
+            } while (p != last.link);
 
-public void InsertInBeginning(int data){
-    Node temp = new Node(data);
-    temp.link = last.link;
-    last.link = temp;
-}
+            Console.WriteLine();
+        }
 
-public void InsertInEmptyList(int data){
-    Node temp = new Node(data);
-    last = temp;
-    last.link = last;
-}
+        public void InsertInBeginning(int data){
+            Node temp = new Node(data);
+            temp.link = last.link;
+            last.link = temp;
+        }
 
-public void InsertAtEnd(int data){
-    Node temp = new Node(data);
-    temp.link = last.link;
-    last.link = temp;
-    last = temp;
-}
-
-public void CreateList(){
-    int i, n, data;
-
-    Console.WriteLine("Enter the number of nodes: ");
-    n = Convert.ToInt32(Console.ReadLine());
-
-    if (n == 0)
-        return;
-    Console.Write("Enter the element to be inserted: ");
-    data = Convert.ToInt32(Console.ReadLine());
-    InsertInEmptyList(data);
-
-    for (i = 2; i <= n; i++){
-        Console.Write("Enter the element to be inserted: ");
-        data = Convert.ToInt32(Console.ReadLine());
-        InsertAtEnd(data);
-    }
-}
-
-public void InsertAfter(int data, int x){
-    Node p = last.link;
-    do {
-        if (p.info == x)
-            break;
-        p = p.link;
-    } while(p != last.link);
-
-    if (p == last.link && p.info != x)
-        Console.WriteLine(x + " not present in the list.");
-    else{
-        Node temp = new Node(data);
-        temp.link = p.link;
-        if (p == last)
+        public void InsertInEmptyList(int data){
+            Node temp = new Node(data);
             last = temp;
-    }
-}
+            last.link = last;
+        }
 
-public void DeleteFirstNode(){
-    // if list is empty
-    if (last == null)
-        return;
-    // if list has one node
-    if(last.link == last){
-        last = null;
-        return;
-    }
+        public void InsertAtEnd(int data){
+            Node temp = new Node(data);
+            temp.link = last.link;
+            last.link = temp;
+            last = temp;
+        }
 
-    last.link = last.link.link;
-}
+        public void CreateList(){
+            int i, n, data;
 
-public void DeleteLastNode(){
-    // if list is empty
-    if (last == null)
-        return;
-    // if list has one node
-    if(last.link == last){
-        last = null;
-        return;
-    }
+            Console.WriteLine("Enter the number of nodes: ");
+            n = Convert.ToInt32(Console.ReadLine());
 
-    Node p = last.link;
-    while (p.link != last)
-        p = p.link;
-    p.link = last.link;
-    last = p;
-}
+            if (n == 0)
+                return;
+            Console.Write("Enter the element to be inserted: ");
+            data = Convert.ToInt32(Console.ReadLine());
+            InsertInEmptyList(data);
 
-public void DeleteNode(int x){
-    // list is empty
-    if (last == null)
-        return;
-    // delete the only node
-    if(last.link == last && last.info == x){
-        last = null;
-        return;
-    }
-    // delete the first node
-    if(last.link.info == x){
-        last.link = last.link.link;
-        return;
-    }
-    // delete a node in between the list
-    Node p = last.link;
-    while(p.link != last.link){
-        if (p.link.info == x)
-            break;
-        p = p.link;
-    }
+            for (i = 2; i <= n; i++){
+                Console.Write("Enter the element to be inserted: ");
+                data = Convert.ToInt32(Console.ReadLine());
+                InsertAtEnd(data);
+            }
+        }
 
-    if (p.link == last.link)
-        Console.WriteLine(x + " not found in the list.");
-    else {
-        p.link = p.link.link;
-        if (last.info == x)
+        public void InsertAfter(int data, int x){
+            Node p = last.link;
+            do {
+                if (p.info == x)
+                    break;
+                p = p.link;
+            } while(p != last.link);
+
+            if (p == last.link && p.info != x)
+                Console.WriteLine(x + " not present in the list.");
+            else{
+                Node temp = new Node(data);
+                temp.link = p.link;
+                if (p == last)
+                    last = temp;
+            }
+        }
+
+        public void DeleteFirstNode(){
+            // if list is empty
+            if (last == null)
+                return;
+            // if list has one node
+            if(last.link == last){
+                last = null;
+                return;
+            }
+
+            last.link = last.link.link;
+        }
+
+        public void DeleteLastNode(){
+            // if list is empty
+            if (last == null)
+                return;
+            // if list has one node
+            if(last.link == last){
+                last = null;
+                return;
+            }
+
+            Node p = last.link;
+            while (p.link != last)
+                p = p.link;
+            p.link = last.link;
             last = p;
-    }
-}
+        }
+
+        public void DeleteNode(int x){
+            // list is empty
+            if (last == null)
+                return;
+            // delete the only node
+            if(last.link == last && last.info == x){
+                last = null;
+                return;
+            }
+            // delete the first node
+            if(last.link.info == x){
+                last.link = last.link.link;
+                return;
+            }
+            // delete a node in between the list
+            Node p = last.link;
+            while(p.link != last.link){
+                if (p.link.info == x)
+                    break;
+                p = p.link;
+            }
+
+            if (p.link == last.link)
+                Console.WriteLine(x + " not found in the list.");
+            else {
+                p.link = p.link.link;
+                if (last.info == x)
+                    last = p;
+            }
+        }
     }
 }

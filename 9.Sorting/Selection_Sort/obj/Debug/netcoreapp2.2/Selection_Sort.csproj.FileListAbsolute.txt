@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/obj/Debug/netcoreapp2.2/Selection_Sort.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/obj/Debug/netcoreapp2.2/Selection_Sort.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/obj/Debug/netcoreapp2.2/Selection_Sort.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/obj/Debug/netcoreapp2.2/Selection_Sort.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/bin/Debug/netcoreapp2.2/Selection_Sort.deps.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/bin/Debug/netcoreapp2.2/Selection_Sort.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/bin/Debug/netcoreapp2.2/Selection_Sort.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/bin/Debug/netcoreapp2.2/Selection_Sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/bin/Debug/netcoreapp2.2/Selection_Sort.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/obj/Debug/netcoreapp2.2/Selection_Sort.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/9.Sorting/Selection_Sort/obj/Debug/netcoreapp2.2/Selection_Sort.pdb

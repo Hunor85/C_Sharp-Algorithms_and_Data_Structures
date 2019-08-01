@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/obj/Debug/netcoreapp2.2/Binary_tree.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/obj/Debug/netcoreapp2.2/Binary_tree.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/obj/Debug/netcoreapp2.2/Binary_tree.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/obj/Debug/netcoreapp2.2/Binary_tree.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/bin/Debug/netcoreapp2.2/Binary_tree.deps.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/bin/Debug/netcoreapp2.2/Binary_tree.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/bin/Debug/netcoreapp2.2/Binary_tree.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/bin/Debug/netcoreapp2.2/Binary_tree.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/bin/Debug/netcoreapp2.2/Binary_tree.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/obj/Debug/netcoreapp2.2/Binary_tree.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/6.Binary_tree/Binary_tree/obj/Debug/netcoreapp2.2/Binary_tree.pdb

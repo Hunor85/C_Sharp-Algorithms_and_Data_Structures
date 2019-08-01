@@ -1,0 +1,6 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Euclids_algorithm/bin/Debug/Euclids_algorithm.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Euclids_algorithm/bin/Debug/Euclids_algorithm.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Euclids_algorithm/obj/x86/Debug/Euclids_algorithm.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Euclids_algorithm/obj/x86/Debug/Euclids_algorithm.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Euclids_algorithm/obj/x86/Debug/Euclids_algorithm.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Euclids_algorithm/obj/x86/Debug/Euclids_algorithm.pdb

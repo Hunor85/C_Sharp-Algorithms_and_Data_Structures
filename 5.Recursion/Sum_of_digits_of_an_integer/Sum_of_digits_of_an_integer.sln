@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_digits_of_an_integer", "Sum_of_digits_of_an_integer.csproj", "{1CDE80F3-C4DA-46AD-9E5D-2811051D0058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDE80F3-C4DA-46AD-9E5D-2811051D0058}.Debug|x86.ActiveCfg = Debug|x86
+		{1CDE80F3-C4DA-46AD-9E5D-2811051D0058}.Debug|x86.Build.0 = Debug|x86
+		{1CDE80F3-C4DA-46AD-9E5D-2811051D0058}.Release|x86.ActiveCfg = Release|x86
+		{1CDE80F3-C4DA-46AD-9E5D-2811051D0058}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

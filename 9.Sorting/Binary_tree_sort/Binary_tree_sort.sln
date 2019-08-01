@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_tree_sort", "Binary_tree_sort.csproj", "{666D2482-A143-4380-9538-B9D50C601A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666D2482-A143-4380-9538-B9D50C601A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666D2482-A143-4380-9538-B9D50C601A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666D2482-A143-4380-9538-B9D50C601A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666D2482-A143-4380-9538-B9D50C601A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

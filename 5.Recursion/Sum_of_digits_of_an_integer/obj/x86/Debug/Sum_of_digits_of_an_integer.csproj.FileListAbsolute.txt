@@ -1,0 +1,6 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Sum_of_digits_of_an_integer/bin/Debug/Sum_of_digits_of_an_integer.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Sum_of_digits_of_an_integer/bin/Debug/Sum_of_digits_of_an_integer.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Sum_of_digits_of_an_integer/obj/x86/Debug/Sum_of_digits_of_an_integer.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Sum_of_digits_of_an_integer/obj/x86/Debug/Sum_of_digits_of_an_integer.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Sum_of_digits_of_an_integer/obj/x86/Debug/Sum_of_digits_of_an_integer.exe
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/5.Recursion/Sum_of_digits_of_an_integer/obj/x86/Debug/Sum_of_digits_of_an_integer.pdb

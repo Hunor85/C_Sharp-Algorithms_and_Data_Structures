@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/obj/Debug/netcoreapp2.2/Heap.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/obj/Debug/netcoreapp2.2/Heap.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/obj/Debug/netcoreapp2.2/Heap.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/obj/Debug/netcoreapp2.2/Heap.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/bin/Debug/netcoreapp2.2/Heap.deps.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/bin/Debug/netcoreapp2.2/Heap.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/bin/Debug/netcoreapp2.2/Heap.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/bin/Debug/netcoreapp2.2/Heap.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/bin/Debug/netcoreapp2.2/Heap.pdb
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/obj/Debug/netcoreapp2.2/Heap.dll
+/Users/hunorvadasz-perhat/Documents/Projects/C_Sharp-Algorithms_and_Data_Structures-master/8.Heap/Heap/obj/Debug/netcoreapp2.2/Heap.pdb
